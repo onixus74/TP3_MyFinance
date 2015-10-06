@@ -63,6 +63,10 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\MyFinance.Data\MyFinance.Data.csproj">
+      <Project>{6420614a-80b2-42fc-8e99-cdfc19f032f6}</Project>
+      <Name>MyFinance.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MyFinance.Domain\MyFinance.Domain.csproj">
       <Project>{a9b4d26d-aad4-43b1-86b6-301b6f7d5b25}</Project>
       <Name>MyFinance.Domain</Name>

@@ -1,0 +1,12 @@
+C:\Users\onixus74\Desktop\Study\dotNet\TP\TP3 Entity Framework\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.dll.config
+C:\Users\onixus74\Desktop\Study\dotNet\TP\TP3 Entity Framework\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.dll
+C:\Users\onixus74\Desktop\Study\dotNet\TP\TP3 Entity Framework\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.pdb
+C:\Users\onixus74\Desktop\Study\dotNet\TP\TP3 Entity Framework\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.dll
+C:\Users\onixus74\Desktop\Study\dotNet\TP\TP3 Entity Framework\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\onixus74\Desktop\Study\dotNet\TP\TP3 Entity Framework\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Domain.dll
+C:\Users\onixus74\Desktop\Study\dotNet\TP\TP3 Entity Framework\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Domain.pdb
+C:\Users\onixus74\Desktop\Study\dotNet\TP\TP3 Entity Framework\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.xml
+C:\Users\onixus74\Desktop\Study\dotNet\TP\TP3 Entity Framework\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\onixus74\Desktop\Study\dotNet\TP\TP3 Entity Framework\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.csprojResolveAssemblyReference.cache
+C:\Users\onixus74\Desktop\Study\dotNet\TP\TP3 Entity Framework\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.dll
+C:\Users\onixus74\Desktop\Study\dotNet\TP\TP3 Entity Framework\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.pdb

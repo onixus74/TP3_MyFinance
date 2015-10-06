@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace MyFinance.Data
 {
-    class MyFinanceContext : DbContext
+    public class MyFinanceContext : DbContext
     {
-        public MyFinanceContext() : base("name=MyFinanceDBcs") { }
+        public MyFinanceContext() : base("Name=MyFinanceDbcs") { }
         public DbSet<Product> Products { get; set; }
         public DbSet<Provider> Providers { get; set; }
         public DbSet<Category> Categories { get; set; }
