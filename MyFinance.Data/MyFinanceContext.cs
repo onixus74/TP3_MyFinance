@@ -11,10 +11,9 @@ namespace MyFinance.Data
 {
     class MyFinanceContext : DbContext
     {
-        public MyFinanceContext() : base("MyFinanceDB") { };
+        public MyFinanceContext() : base("name=MyFinanceDBcs") { }
         public DbSet<Product> Products { get; set; }
         public DbSet<Provider> Providers { get; set; }
-
         public DbSet<Category> Categories { get; set; }
     }
 }
